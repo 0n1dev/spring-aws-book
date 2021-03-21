@@ -10,3 +10,5 @@
 - [SpringBootInit](./StudyLog/3-SpringBootInit.md)
 - [Controller](./StudyLog/4-Controller.md)
 - [HelloControllerTest](./StudyLog/5-HelloControllerTest.md)
+- [Lombok](./StudyLog/6-Lombok.md)
+- [HelloResponseDto](./StudyLog/7-HelloResponseDto.md)
