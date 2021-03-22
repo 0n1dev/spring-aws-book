@@ -13,3 +13,4 @@
 - [Lombok](./StudyLog/6-Lombok.md)
 - [HelloResponseDto](./StudyLog/7-HelloResponseDto.md)
 - [addDtoHelloController](./StudyLog/8-addDtoHelloController.md)
+- [JPA](./StudyLog/9-JPA.md)
